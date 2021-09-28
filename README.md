@@ -1,2 +1,2 @@
-# Download_playlist_youtuber_python
-This is tool created by Python to Download playlist from Youtube
+# Downloa_Video_Or_Playlist_From_Youtube_Python
+This is tool created by Python to Download video or playlist from Youtube
